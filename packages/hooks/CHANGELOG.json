@@ -1,0 +1,17 @@
+{
+  "name": "@map/hooks",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@map/hooks_v1.0.1",
+      "date": "Sun, 09 Oct 2022 23:49:23 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "feat: 修改值"
+          }
+        ]
+      }
+    }
+  ]
+}
