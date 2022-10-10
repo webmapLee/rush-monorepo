@@ -2,6 +2,18 @@
   "name": "@map/hooks",
   "entries": [
     {
+      "version": "1.0.3",
+      "tag": "@map/hooks_v1.0.3",
+      "date": "Mon, 10 Oct 2022 23:04:32 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "aa"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "@map/hooks_v1.0.2",
       "date": "Mon, 10 Oct 2022 23:03:16 GMT",
