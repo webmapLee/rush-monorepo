@@ -1,2 +1,2 @@
-const data = 'Hello World111';
+const data = 'Hello World';
 export default data;
