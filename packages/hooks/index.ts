@@ -1,2 +1,2 @@
-const data = 'Hello World2222';
+const data = 'Hello World from hooks';
 export default data;
