@@ -2,6 +2,18 @@
   "name": "@map/components",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@map/components_v1.0.2",
+      "date": "Mon, 10 Oct 2022 22:49:12 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@map/hooks\" to `1.0.2`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@map/components_v1.0.1",
       "date": "Sun, 09 Oct 2022 23:49:23 GMT",
