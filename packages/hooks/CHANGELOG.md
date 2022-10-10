@@ -1,6 +1,13 @@
 # Change Log - @map/hooks
 
-This log was last generated on Mon, 10 Oct 2022 23:03:16 GMT and should not be manually modified.
+This log was last generated on Mon, 10 Oct 2022 23:48:05 GMT and should not be manually modified.
+
+## 1.0.3
+Mon, 10 Oct 2022 23:48:05 GMT
+
+### Patches
+
+- fix publish
 
 ## 1.0.2
 Mon, 10 Oct 2022 23:03:16 GMT
